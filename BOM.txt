@@ -1,1 +1,10 @@
 1 * 20x80x500 Extrusion - http://openbuildspartstore.com/v-slot-linear-rail/ 
+1 * 20x40x610 Extrusion - http://www.amazon.com/80-20-20-2040-T-SLOTTED-EXTRUSION/dp/B001F0G6CU/ref=sr_1_1?ie=UTF8&qid=1440121189&sr=8-1&keywords=20-2040+610mm
+
+2 * SK12 12mm Linear Rail Shaft Supprt - http://www.amazon.com/Linear-Shaft-Support-Milling-Machine/dp/B00G9HSJ4C/ref=sr_1_1?s=industrial&ie=UTF8&qid=1447438740&sr=1-1&keywords=SK12+12mm+shaft+support&refinements=p_85%3A2470955011
+
+1 * Three Element Glass BDR-209 Laser Diode - https://sites.google.com/site/dtrlpf/home/diodes/bdr-209-405nm-16x-diodes
+
+1 * USB Microscope - http://www.amazon.com/dp/B0066HA1PU/?tag=hacdc-20
+
+1 * Black Angle Corner Connector - http://openbuildspartstore.com/black-angle-corner-connector/
