@@ -8,3 +8,6 @@
 1 * USB Microscope - http://www.amazon.com/dp/B0066HA1PU/?tag=hacdc-20
 
 1 * Black Angle Corner Connector - http://openbuildspartstore.com/black-angle-corner-connector/
+
+2 * https://www.sparkfun.com/products/11270
+2 * 5ft, http://www.mcmaster.com/#5236k98/=zqj0s2 OR http://www.mcmaster.com/#51135k67/=zqizyp
