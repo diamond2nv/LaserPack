@@ -2,6 +2,12 @@
 6 * http://openbuildspartstore.com/xtreme-solid-v-wheel-kit/
 1 * http://openbuildspartstore.com/anti-backlash-nut-block-for-8mm-metric-acme-lead-screw/
 
+3 * http://openbuildspartstore.com/eccentric-spacer/
+6 * M5x35mm - http://openbuildspartstore.com/low-profile-screws-m5/
+6 * http://openbuildspartstore.com/precision-shim-10x5x1mm/
+
+6 * https://www.fastenal.com/products/details/0141487
+
 1 * 20x80x500 Extrusion - http://openbuildspartstore.com/v-slot-linear-rail/ 
 1 * 20x40x610 Extrusion - http://www.amazon.com/80-20-20-2040-T-SLOTTED-EXTRUSION/dp/B001F0G6CU/ref=sr_1_1?ie=UTF8&qid=1440121189&sr=8-1&keywords=20-2040+610mm
 
